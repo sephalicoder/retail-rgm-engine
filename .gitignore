@@ -1,1 +1,4 @@
 -e "__pycache__/\n*.pyc\n.streamlit/\n*.pkl\n*.csv" 
+venv/ 
+.ipynb_checkpoints/ 
+__pycache__/ 
